@@ -1,2 +1,2 @@
 # Crawler.js
-this node.js app use puppeteer library to get yelp.com, search for the best restruant in the city which provided as parameter, and present it as respond on the screen
+This node.js app use puppeteer library to get yelp.com, search for the best restaurant in the city which is provided as a parameter, and present it as a respond on the screen
